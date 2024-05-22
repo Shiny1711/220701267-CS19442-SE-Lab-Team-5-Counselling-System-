@@ -10,9 +10,9 @@
 | [Sreenidhi K]  | 220701285  |
 
 
-# Problem Statement:
+# Project Overview:
 
-The primary problem a Student Information Management System (SIMS) aims to
+The primary problem a Counselling System aims to
 resolve is the efficient and organized management of student data. Specifically, the
 system addresses:
 Data Fragmentation: Student information is often spread across various platforms,
