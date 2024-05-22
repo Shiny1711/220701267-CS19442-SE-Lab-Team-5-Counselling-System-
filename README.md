@@ -10,7 +10,7 @@
 | [Sreenidhi K]  | 220701285  |
 
 
-#Problem Statement:
+# Problem Statement:
 
 The primary problem a Student Information Management System (SIMS) aims to
 resolve is the efficient and organized management of student data. Specifically, the
